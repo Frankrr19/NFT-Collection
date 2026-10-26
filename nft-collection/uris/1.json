@@ -1,0 +1,13 @@
+{
+
+    "name":"VEX NFT 1",
+    "description":"Second NFT of the VEX collection",
+    "image":"ipfs://bafybeic67j7dzwdvboisfcfnbocjfxfedr7qfstjbaxwrzxgmxo3y54ijy",
+    "atributes":[
+        {
+            "trait_type": "Premium",
+            "value": "1"
+        }
+    ]
+
+}

@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: nft-backend
+
+server:
+  port: 8080
+
+blockchain:
+  rpc-url: "https://arb1.arbitrum.io/rpc"
+  contract-address: "0xcacde617dcd48d7624b845a218600be401c77d7d"
+  chain-id: 42161
+
+ipfs:
+  gateway: "https://gateway.pinata.cloud/ipfs/"
